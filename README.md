@@ -31,7 +31,7 @@ Install a package in the virtual environment and add it to the pyproject.toml
 uv add <package name>
 ```
 # Usage
-To run the application, use the following commmand:
+* To run the application as a web UI use the following commmand:
 ```bash
 textual-web --config pyproject.toml
 ```
@@ -39,3 +39,10 @@ textual-web --config pyproject.toml
  You will see the app is serving https://textual-web.io/2shsc9cdsj1w/calculator
 
  ![Sample](https://github.com/pilarcode/textual-web-lab/blob/main/docs/demo.png)
+
+
+
+* To run the application as a terminal UI use the following commmand:
+```bash
+python calculator.py
+```
