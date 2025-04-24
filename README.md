@@ -46,3 +46,5 @@ textual-web --config pyproject.toml
 ```bash
 python calculator.py
 ```
+
+ ![Sample](https://github.com/pilarcode/textual-web-lab/blob/main/docs/demo_terminal_ui.png)
