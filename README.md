@@ -1,15 +1,16 @@
 # Textual-web Lab
 This is a lab to experiment with Textual Web library.
 
+
+
+### ⚡ Features
+Textual Web can serve multiple Textual apps and terminals (as many as you like).
+
 ◾ https://github.com/Textualize/textual-web  
 ◾ https://github.com/Textualize/textual
 
 
-### ⚡ Features
-- Textual Web can serve multiple Textual apps and terminals (as many as you like).
-
-
-# 👉 Getting Started
+### 👉 Getting Started
 
 1.	Project creation
 
@@ -34,7 +35,7 @@ Install a package in the virtual environment and add it to the pyproject.toml
 ```bash
 uv add <package name>
 ```
-# 🚀 Usage
+### 🚀 Usage
 * To run the application as a web UI use the following commmand:
 ```bash
 textual-web --config pyproject.toml
