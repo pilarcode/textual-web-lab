@@ -1,5 +1,5 @@
 # Textual-web Lab
-This is a lab to experiment with Textual Web library.
+This is a lab to experiment with Textual Web library to know how to convert a CLI app into a Web app.
 
 
 
