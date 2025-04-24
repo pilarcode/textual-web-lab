@@ -1,0 +1,14 @@
+[project]
+name = "textual-web-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "textual>=0.43.2",
+    "textual-web>=0.8.0",
+]
+
+
+[app.Calculator]
+command = "python calculator.py"
