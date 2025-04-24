@@ -38,4 +38,4 @@ textual-web --config pyproject.toml
 
  You will see the app is serving https://textual-web.io/2shsc9cdsj1w/calculator
 
- [Sample](docs/demo.png)
+ ![Sample](https://github.com/pilarcode/textual-web-lab/blob/main/docs/demo.png)
